@@ -1,0 +1,2 @@
+source /Users/gregrapp/git/esp-led/esp-led-project/build/bootloader/gdbinit/symbols
+source /Users/gregrapp/git/esp-led/esp-led-project/build/bootloader/gdbinit/connect
